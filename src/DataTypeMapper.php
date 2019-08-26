@@ -119,7 +119,7 @@ class DataTypeMapper
      */
     protected function emptyArraySyntax()
     {
-        return 'array';
+        return "'array'";
     }
 
     /**
