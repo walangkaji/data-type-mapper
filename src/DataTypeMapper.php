@@ -69,7 +69,7 @@ class DataTypeMapper
                 continue;
             }
 
-            $string .= var_export(gettype($value), true) . ',' . PHP_EOL;
+            $string .= var_export(strtolower(gettype($value)), true) . ',' . PHP_EOL;
         }
 
         return $string;
