@@ -114,7 +114,7 @@ Output :
             'string',
             'string',
         ],
-        'songolas' => [],
+        'songolas' => 'array',
     ],
 ]
 ```
