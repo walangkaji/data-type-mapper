@@ -9,30 +9,17 @@
 ----------
 ### Cara Install
 
-### 1. Via Composer
+### Composer
 ```sh
 $ composer require walangkaji/data-type-mapper
 ```
 
-### 2. Via Clone Tepo
+### Clone
 ```sh
 $ git clone https://github.com/walangkaji/data-type-mapper.git
 $ cd data-type-mapper/
 $ composer install
 ```
-
-### 3. Via Donglot Tepo
-1. Download zip [Disini](https://github.com/walangkaji/data-type-mapper/archive/master.zip).
-2. Extract.
-3. Install requirements menggunakan composer:
-
-```sh
-$ composer install
-```
-
-### Saya belum mempunyai Composer
-
-Bisa Install & Download [Disini](https://getcomposer.org/download/).
 
 ### Cara Pakai
 
